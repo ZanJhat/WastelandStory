@@ -9,7 +9,7 @@ packages/
 
 # C# Shell IDE state — per-project databases and IDE metadata, not source
 *.csproj.db
-*.csharpshellideproj
+*.csharpshellideproj.db
 .csharpshell/
 
 # Editors
