@@ -24,5 +24,9 @@
     <Reference Include="Engine">
       <HintPath>/storage/emulated/0/Download/.SC2-Mod 🔰/References/API/SC2 v2.4 API 1.9.3.1/Engine.dll</HintPath>
     </Reference>
+    <Compile Remove="Definitions/Chartlet.cs" />
+    <Compile Remove="Definitions/DimensionPortal/MyClass.cs" />
+    <Compile Remove="Definitions/WorldDoor.cs" />
+    <Compile Remove="Definitions/MyClass.cs" />
   </ItemGroup>
 </Project>
